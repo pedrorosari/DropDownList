@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4d056b44-4f73-4738-98de-f56f8c9eb9a3": {
+      "ProjectGuid": "4d056b44-4f73-4738-98de-f56f8c9eb9a3",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 0
+    },
+    "c0f7a4c0-ed0d-4343-89af-45caf5001415": {
+      "ProjectGuid": "c0f7a4c0-ed0d-4343-89af-45caf5001415",
+      "DisplayName": "DropdownList",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
